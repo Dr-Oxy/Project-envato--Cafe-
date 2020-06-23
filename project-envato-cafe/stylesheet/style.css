@@ -1,0 +1,102 @@
+body{
+    font-family: Poppins, sans-serif;
+}
+
+
+
+h1, h2 {
+    font-family: Vivaldi, san-serif;
+    font-weight: Bold;
+}
+
+h2 {
+    color: #3b201b;
+}
+
+#banner-wrapper{
+    background-image: url('../images/table-in-vintage-restaurant-6267\ \(1\).jpg');
+    background-blend-mode: multiply;
+    color: #fff;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#banner-wrapper .container{
+    background-color: #0a0504d3;
+    padding: 4em 0.5em 4em 0.5em !important;
+    margin-top: 6em;
+}
+
+#button-css{
+    margin: 1em auto 2em auto !important;
+    display:block;
+}
+
+#about-us-img{
+ background-image: url('../images/beans-coffee-cup-mug-34079.jpg');
+ background-size: contain;
+ height:20vh;
+}
+
+.btn{
+    border: 2px solid #3b201b !important;
+    color: #1b1716 !important;
+}
+
+.btn:hover{
+    background-color:#3b201b !important;
+    color: #fff !important;
+}
+.btn-primary{
+    background-color:#3b201b;
+    color:#fff !important;
+    padding: 0.5em 1em !important;
+    max-width: 120px !important;
+}
+
+.btn-primary:hover{
+    background-color:#fff;
+    color:#3b201b !important;   
+}
+
+.card-deck .card{
+    position: relative;
+  
+}
+.card-deck .card:hover{
+    /* border-bottom: 10px solid #3b201b; */
+    box-shadow: 0 5px 20px #3b201b58;
+}
+
+.star i{
+    color: #3b201b;
+    cursor: pointer;
+}
+
+.star span:nth-of-type(1){
+    color: #c5981c;
+}
+
+div.form-group input {
+    background-color: #3b201b;
+    color: white;
+}
+
+@media (max-width: 768px){
+    .card-deck {
+        width: 100% !important;
+    }
+    .card {
+      min-width: 90% !important;      
+  }  
+ 
+}
+
+@media (max-width: 1400px){
+    .container {
+      max-width: 90%;
+  }  
+ 
+}

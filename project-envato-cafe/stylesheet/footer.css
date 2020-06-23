@@ -1,0 +1,49 @@
+.mr-3 a i {
+    font-size: 30px;
+}
+
+footer {
+    background-color: #3b201b;
+    border-top: 1px solid #3b201b;
+    background-color: #E1E1E1;
+}
+
+footer a {
+    text-decoration: none;
+    color: #3b201b;
+    font-size: larger;
+}
+
+footer a:hover {
+    color: #D8B295;
+    text-decoration: none;
+}
+
+body {
+    font-family: Poppins, sans-serif;
+}
+
+h1 {
+    font-family: Vivaldi, sans-serif;
+}
+
+.navbar {
+    background-color: #3b201b;
+}
+
+
+footer {
+    border-top: 1px solid #3b201b;
+    background-color: #E1E1E1;
+}
+
+footer a {
+    text-decoration: none;
+    color: #3b201b;
+    font-size: larger;
+}
+
+footer a:hover {
+    color: #D8B295;
+    text-decoration: none;
+}

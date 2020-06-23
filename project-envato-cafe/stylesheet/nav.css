@@ -1,0 +1,40 @@
+
+  
+  #nav-bar{
+    transition: all 0.5s;
+    background-color: #3b201b;
+  }
+  .navbar-nav{
+    align-items: center;
+  }
+  
+  .navbar-brand{
+    color: #d8b295 !important;
+    font-weight: 500;
+    /* font-family: 'Berkshire Swash', cursive; */
+    font-size: 2rem;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: #d8b2958e;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    
+  }
+  .navbar-toggler{
+    background-color: #fff !important;
+  }
+  
+.nav-link {
+    margin: 0 0.6em;
+    color: #51341e5e;
+}
+
+.nav-link:hover{
+    color: #fff !important;
+}
+
+#page-link{
+    color:#d8b295 !important; 
+}
+
+
